@@ -1,4 +1,4 @@
-# Contributing to Decentralized Budget Tracker
+# Contributing to Decentralized Budget Tracking
 
 Thank you for your interest in contributing! Whether it's reporting a bug, improving documentation, or proposing a new machine learning model, your contributions are welcome.
 
